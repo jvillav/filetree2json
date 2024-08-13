@@ -13,7 +13,7 @@ Consider the following structure
 ```
 
 With the file `Hello.txt` containing `Hello!` and the file `world.txt` inside `W` containing `orld`, the
-JSON generated will have:
+generated JSON will have:
 
 
 ```
@@ -32,5 +32,5 @@ JSON generated will have:
   * `-o OUTPUT`, `--output OUTPUT` The path of the output JSON file. Defaults to 'output.json'.
   * `-i JSON_FILE`, `--json_file JSON_FILE` The path of the JSON file containing the directory structure.
   * `-p OUTPUT_DIRECTORY`, `--output_directory OUTPUT_DIRECTORY` The root directory where the structure will be recreated.
-  * `-v VERBOSE`, `--verbose VERBOSE` Enable a verbose output.
+  * `-v VERBOSE`, `--verbose VERBOSE` Enable verbose output.
  
